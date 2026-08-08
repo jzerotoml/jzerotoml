@@ -1,4 +1,4 @@
-# Hi, I'm Jonathan 👋
+# Hi, I'm Jonathan 
 
 🎓 Systems & Computing Engineering Student
 🐍 Exploring Python
